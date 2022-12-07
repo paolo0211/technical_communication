@@ -1,0 +1,9 @@
+# Modules
+node_modules
+.*
+!/.gitignore
+!/.gitlab-ci.yml
+
+# Standard directories
+previous
+demo.log
