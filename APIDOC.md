@@ -1,4 +1,4 @@
-Yipper API Documentation
+API Documentation
 The Yipper API provides information about the various yips/yippers and is able
 to look up key word in yip posts, to like a yip post, to check on a yipper, and
 to post a yip.
